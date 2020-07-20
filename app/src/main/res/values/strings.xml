@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">APP_HappyReminder</string>
+    <string-array name="lenguajes">
+        <item>Seleccione</item>
+        <item>Papá</item>
+        <item>Mamá</item>
+        <item>Hermano</item>
+        <item>Hermana</item>
+        <item>Primo</item>
+        <item>Prima</item>
+        <item>Amigo</item>
+        <item>Amiga</item>
+        <item>Hijo</item>
+        <item>Hija</item>
+    </string-array>
 </resources>
